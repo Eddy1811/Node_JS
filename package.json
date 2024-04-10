@@ -1,0 +1,16 @@
+{
+  "name": "meteo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "weather": "node weather.js",
+    "today": "node today.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddy",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
